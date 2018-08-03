@@ -1,0 +1,26 @@
+
+WARNING: Possible cycle found in invocation tree. UTL_Platform::GetNetworkTime#57921 was invoked by UTL_Platform::GetNetworkTime#57921, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. UTL_Platform::CompareAndSwap#17620 was invoked by DiagnosticMessaging::LogInfoCritical#45842, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. UTL_Time::GetCurrentOrionTime#872 was invoked by DiagnosticMessaging::LogInfoCritical#45842, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. UTL_Platform::GetInstanceID#45884 was invoked by DiagnosticMessaging::LogInfoCritical#45842, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. DiagnosticMessaging::LogMessage#45817 was invoked by GncpDiagnostics::Gncp_Info_ConstructionComplete#18016, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. N_CommandableConfigArray::N_CommandableConfigArray#17500 was invoked by CAR_SAGPNTHelper::CAR_SAGPNTHelper#93361, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. N_CommandableConfigArray::N_CommandableConfigArray#17500 was invoked by CNS_AttConfigHelper::CNS_AttConfigHelper#17494, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. DiagnosticMessaging::LogMessage#45817 was invoked by GncpDiagnostics::Gncp_Info_ConstructionComplete#18016, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. DiagnosticMessaging::LogMessage#45817 was invoked by GncpDiagnostics::Gncp_Info_ConstructionComplete#18016, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. GCI_SlotManager::getInstance#18389 was invoked by ActivityListSequencer::getActListIndexBySegID#63789, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. DiagnosticMessaging::LogMessage#45817 was invoked by GncpDiagnostics::Gncp_Info_ActivityNotFound#73626, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. DiagnosticMessaging::LogMessage#45817 was invoked by GncpDiagnostics::Gncp_Critical_SLDBConfigDataNullPointer#9646, and is already a vertx in the interface graph.
+
+WARNING: Possible cycle found in invocation tree. DiagnosticMessaging::LogMessage#45817 was invoked by GncpDiagnostics::Gncp_Info_SlotIndexInvalid#9648, and is already a vertx in the interface graph.
